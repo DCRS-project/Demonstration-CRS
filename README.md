@@ -1,6 +1,6 @@
-# Good Examples Make Better Learners
+# Broadening the View: Demonstration-augmented Prompt Learning for Conversational Recommendation
 
-This repo contains code and data for the paper: "Good Examples Make Better Learners - Improving Conversational Recommendation with Informative Demonstrations".
+This repo contains code and data for the paper: "Broadening the View: Demonstration-augmented Prompt Learning for Conversational Recommendation".
 
 ## 1. Setup
 
